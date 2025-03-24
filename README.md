@@ -18,10 +18,6 @@
 <li>Sass</li>
 <li>Bootstrap</li>
 
-### 🌐 `Deploy`
-
-
-
 ### 🎥 `Screen`
 
 ![](ice-cream.gif)# Ice-Cream-React-Unit-Test-Project
